@@ -18,7 +18,7 @@ h1 + p, h3 + p {
     font-weight: bold;
 }
 
-div > header {
+div header {
     margin: 1em 0;
 }
 
