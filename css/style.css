@@ -43,3 +43,7 @@ a[rel="external"] {
 #experience section:first-of-type {
     border-bottom: 2px dashed #ccc;
 }
+
+main > section {
+    margin-bottom: 3rem;
+}
