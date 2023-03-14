@@ -51,3 +51,7 @@ main > section {
 main > section h2 + p strong{
     color: purple;
 }
+
+li:nth-child(2){
+    color: purple;
+}
