@@ -26,3 +26,7 @@ h2 {
     text-transform: uppercase;
     border-bottom: 2px solid #000;
 }
+
+p > header {
+    font-size: 1.25rem;
+}
