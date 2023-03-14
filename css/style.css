@@ -18,7 +18,7 @@ h1 + p, h3 + p {
     font-weight: bold;
 }
 
-div > header {
+div header {
     margin: 1em 0;
 }
 
@@ -26,3 +26,4 @@ h2 {
     text-transform: uppercase;
     border-bottom: 2px solid #000;
 }
+
